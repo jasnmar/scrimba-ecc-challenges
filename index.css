@@ -75,3 +75,9 @@ a:hover {
     background-color: #252525;
     color: white;
 }
+
+.dark .btn:hover,
+.dark .btn:focus {
+    color: #252525;
+    background-color: #fff
+}
