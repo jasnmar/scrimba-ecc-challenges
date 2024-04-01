@@ -12,11 +12,11 @@ body, html {
 }
 
 h1 {
-    font-size: 80px;
+    font-size: 60px;
     font-weight: 300;
 }
 h2 {
-    font-size: 60px;
+    font-size: 42px;
     font-weight: 300;
 }
 h3 {
@@ -30,7 +30,12 @@ small {
     font-weight: 900;
     display: block;
 }
-
+h1 .loud {
+    font-size: 80px;
+}
+h2 .loud {
+    font-size: 60px;
+}
 a {
     color: #99D930;
 }
