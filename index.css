@@ -45,9 +45,11 @@ small {
 }
 h1 .loud {
     font-size: 80px;
+    color: #99D930;
 }
 h2 .loud {
     font-size: 60px;
+    color: #99D930;
 }
 a {
     color: #99D930;
@@ -55,7 +57,9 @@ a {
 a:hover {
     color: #131313;
 }
-
+time {
+    color: #99D930;
+}
 .padding100 {
     padding: 100px 0px;
 }
