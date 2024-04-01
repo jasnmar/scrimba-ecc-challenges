@@ -50,16 +50,10 @@ a:hover {
     color: #131313;
 }
 
-header, main, .bottom-section {
+.padding100 {
     padding: 100px 0px;
 }
-header {
-    background-color: #D7D7D7;
-    
-}
-main {
-    background-color: #FFEAEA;
-}
-.bottom-section {
-    background-color: #EAF9FF;
+.dark {
+    background-color: #252525;
+    color:#fff; 
 }
